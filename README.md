@@ -1,5 +1,6 @@
 ﻿# AiResumeBot
  AI parser bot for resumes
 
- #Libraries
+# Libraries
+ - [Pandas](https://pandas.pydata.org/).
  
